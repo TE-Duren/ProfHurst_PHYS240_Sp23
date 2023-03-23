@@ -2,5 +2,13 @@
 **/.idea
 /.idea
 /.idea/workspace.xml
+/.idea/misc.xml
 .DS_store
-
+Seetharaman/.direnv/
+Seetharaman/nm4p/__pycache__/
+Seetharaman/output/
+In-Class/__pycache__/
+*/.ipynb_checkpoints/*
+/.ipynb_checkpoints
+*misc.xml
+*/__pycache__/
